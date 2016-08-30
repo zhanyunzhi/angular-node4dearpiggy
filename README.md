@@ -1,0 +1,2 @@
+# angular-node4dearpiggy
+首次使用angular+node为猪猪霞写一个进出货系统（第一次尝试用node写后台，用yeoman上的脚手架angular-fullstack）
